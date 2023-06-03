@@ -1,0 +1,46 @@
+A legjobb SSD-k beszerzése kulcsfontosságú, mert a legkönnyebben úgy lehet lelassítani egy erős processzorral ellátott PC-t,
+ ha lassú tárolóval párosítjuk. A processzor másodpercenként több milliárd ciklust képes kezelni, 
+ de gyakran sok időt tölt azzal, hogy adatszolgáltatásra vár a meghajtóktól. A merevlemezek különösen lassúak, 
+ mivel a mágneses lemezeknek fel kell pörögniük, és az olvasó/író karnak fizikailag utat kell találnia a keresett adatszektorokhoz. 
+ Az optimális teljesítmény eléréséhez tehát egy jó szilárdtest-meghajtóra, vagyis SSD-re van szükség.
+
+
+
+ Nem kérdés, hogy legalább egy SSD-re minden számítógépnek szüksége van, a rendszermeghajtó esetében ma már nem érdemes HDD-ben gondolkodnunk. Persze utóbbinak is meg lehet a szerepe, 
+ ha komolyabb adatmennyiséget tárolnánk. Egy 10 TB-os HDD lényegesebben olcsóbb, akár fele annyiba is kerülhet, 
+ mint egy 4TB-os SSD. Ami viszont rendkívüli pozitívum, hogy régi gépünket, fáradó laptopunkat is megfiatalíthatjuk, ha a HDD helyére végre SSD-t ültetünk.
+
+
+
+
+ Ha fejlett gamer PC-vel rendelkezünk, vagy egy viszonylag modern PC-t építünk közép- és csúcskategóriás platformmal,
+  a rendszernek képesnek kell lennie a legtöbb (vagy az összes) modern meghajtótípus befogadására. Míg asztali gép esetén jó eséllyel válogathatunk a formátumok között,
+   sok laptopból már kihagyják a 2.5 hüvelykes lehetőséget, de olyan is előfordul, hogy egy-egy modell gyárilag forrasztott meghajtót kap, ami sajnos nem módosítható.
+    Valószínűbb viszont, hogy legalább egy M.2 csatlakozó a rendelkezésünkre áll, vásárláskor tehát nem árt ezzel is tisztában lenni, bármilyen gépet is válasszunk.
+
+
+
+Típusaik: 
+2.5 hüvelykes Serial ATA (SATA)
+M.2 SSD
+SSD-bővítőkártyák (AIC)
+U.2 SSD-k
+
+kapacitás szerint:
+128 GB-os osztály
+250 GB-os osztály
+500 GB-os osztály
+1 TB-os osztály
+2 TB-os osztály
+4 TB-os osztály (és afelett)
+
+
+
+ezek a meghajtók is hajlamosak a melegedésre, 
+a forrósodás pedig hasonlóan a processzorokhoz, itt is csökkenő teljesítményhez vezet.
+ Minél gyorsabb egy meghajtó, annál valószínűbb, hogy hosszú adatfolyamok mozgatásakor hűtésre lesz szüksége,
+  különben drasztikusan lecsökkenhet a másodpercenként átpaszírozható adatok mennyisége. Ezt vagy az alaplapon megtalálható, 
+  vagy külön beszerezhető hűtőbordákkal, és persze a házban kialakított megfelelő légáramlattal segíthetjük elő.ezek a meghajtók is hajlamosak a melegedésre, 
+  a forrósodás pedig hasonlóan a processzorokhoz, itt is csökkenő teljesítményhez vezet. Minél gyorsabb egy meghajtó, annál valószínűbb, hogy hosszú adatfolyamok mozgatásakor hűtésre lesz szüksége, 
+  különben drasztikusan lecsökkenhet a másodpercenként átpaszírozható adatok mennyisége. Ezt vagy az alaplapon megtalálható, 
+  vagy külön beszerezhető hűtőbordákkal, és persze a házban kialakított megfelelő légáramlattal segíthetjük elő.

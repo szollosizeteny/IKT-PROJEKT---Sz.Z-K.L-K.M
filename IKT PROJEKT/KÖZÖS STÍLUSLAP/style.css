@@ -1,0 +1,46 @@
+body {
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    background-color: rgb(36, 31, 31);
+}
+
+#neu120 {
+    height: 300px;
+    width: 300px;
+}
+
+#csapatlogo {
+    width: 300px;
+    height: 300px;
+}
+
+.hddszov {
+    text-align: justify;
+}
+
+.ssdszov {
+    text-align: justify;
+}
+
+a {
+    text-decoration: overline;
+    color: black;
+    size: 1000px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    background-color: rgb(103, 90, 87);
+}
+
+.container {
+    background-color: rgb(103, 90, 87);
+}
